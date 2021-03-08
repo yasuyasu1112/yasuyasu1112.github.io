@@ -1,0 +1,62 @@
+body{
+  margin:0;
+}
+
+header{
+  background-color:rgba(73,100,172,1);
+  color:white
+}
+
+h1{
+  margin: 0;
+  font-size: 28px;
+  padding: 50px 0 10px 0;
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+img{
+  width:100%;
+}
+
+.main-oni{
+  position: relative;
+  margin-bottom:0;
+}
+ 
+.main-oni p{
+  position: absolute;
+  bottom:5px;
+  background-color:rgba(255,255,255,0.7);
+  width:100%;
+  margin:0;
+  height: 80px;
+  padding:40px 120px 40px 120px;
+}
+
+.title1{
+  font-size: 25px;
+  color:rgba(224, 35, 35, 0.959);
+  font-weight: bold;
+}
+
+.soul h1{
+  text-align: left;
+  margin-left:120px;
+}
+
+.soul p{
+  margin:120px;
+}
+
+footer{
+  background-color:rgba(73,100,172,1);
+  margin: 0;
+  height
+}
+
+footer p{
+  margin: 0;
+  text-align: center;
+  line-height: 100px;
+}
